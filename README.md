@@ -53,7 +53,7 @@
 
 1. 登录界面
 
-   ![1606543646145](C:\Users\13520\AppData\Roaming\Typora\typora-user-images\1606543646145.png)
+   ![1606543646145](img/1.png)
 
 2. 注册界面
 
