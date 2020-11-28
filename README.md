@@ -156,7 +156,14 @@
 
 #### 项目文件说明-数据库文件
 
-```student_management_system.sql
-student_management_system.sql
 ```
+shop.sql
+```
+
+#### 项目文件说明-项目压缩文件
+
+```
+Shop.zip
+```
+
 
