@@ -57,18 +57,19 @@
 
 2. 注册界面
 
-   ![1606543659261](C:\Users\13520\AppData\Roaming\Typora\typora-user-images\1606543659261.png)
+   ![1606543659261](img/2.png)
 
 3. 后台管理员界面
 
-   ![1606478637735](C:\Users\13520\AppData\Roaming\Typora\typora-user-images\1606478637735.png)
+   ![1606478637735](img/3.png)
 
 4. 商品详情页
 
-   ![1606552390574](C:\Users\13520\AppData\Roaming\Typora\typora-user-images\1606552390574.png)
+   ![1606552390574](img/4.png)
 
 ## 项目结构
 
+```
 ├─.idea
 │  ├─artifacts
 │  └─libraries
@@ -151,6 +152,7 @@
     │  └─js
     └─WEB-INF
         └─lib
+```
 
 #### 项目文件说明-数据库文件
 
